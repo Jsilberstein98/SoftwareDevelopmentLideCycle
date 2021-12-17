@@ -1,1 +1,1 @@
-# SoftwareDevelopmentLideCycle
+# SoftwareDevelopmentLifeCycle
